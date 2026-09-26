@@ -47,7 +47,7 @@ $$\text{Priority Score} = \text{Activity Points} + \text{Lead Score Points} + \t
 5. **Note Intent Signals (Up to +15 pts):**
    * High Intent ("demo", "pricing") (`+15`), Moderate Intent ("follow up", "referral") (`+10`), General Interest (`+5`).
 6. **Estimated Deal Value (Up to +15 pts):**
-   * $\ge \$100\text{k}$ (`+15`), $\ge \$75\text{k}$ (`+12`), $\ge \$50\text{k}$ (`+10`), $\ge \$25\text{k}$ (`+7`), $\ge \$10\text{k}$ (`+5`).
+   * $100\text{k}$ (`+15`), $75\text{k}$ (`+12`), $50\text{k}$ (`+10`), $25\text{k}$ (`+7`), $10\text{k}$ (`+5`).
 
 ### Priority Ranking (1–10 Scale)
 Leads are evaluated using percentile ranking (`rank(pct=True)`) and grouped into 10 priority ranks:
